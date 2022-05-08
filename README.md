@@ -124,23 +124,23 @@ plt.axis("off")
 ## OUTPUT:
 ### 1. Smoothing Filters:
 i) Using Averaging Filter:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss1.jpg?raw=true)
 
 ii) Using Weighted Averaging Filter:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss2.jpg?raw=true)
 
 iii) Using Weighted Averaging Filter:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss3.jpg?raw=true)
 
 iv) Using Median Filter:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss4.jpg?raw=true)
 
 ### 2. Sharpening Filters:
 i) Using Laplacian Kernal:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss5.jpg?raw=true)
 
 ii) Using Laplacian Operator:
-![output](?raw=true)
+![output](https://github.com/Sucharithachowdary/Implementation-of-Filters/blob/main/ss6.jpg?raw=true)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
